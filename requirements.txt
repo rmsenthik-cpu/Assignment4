@@ -1,7 +1,10 @@
 streamlit
 pandas
+numpy
 langchain
+langchain-community
 langchain-experimental
 langchain-groq
 tabulate
 openpyxl
+numexpr
